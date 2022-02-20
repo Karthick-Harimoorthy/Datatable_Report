@@ -9,12 +9,11 @@
     <script src="assets/plugins/work-report/jquery.js"></script>
     <script src="assets/plugins/work-report/datatable.js"></script>
     <script src="assets/plugins/data-tables/jquery.datatables.min.js"></script>
-    <script src="assets/js/sandc.bundle.js"></script>
     <script src="assets/plugins/work-report/searchpane.js"></script>
     <script src="assets/plugins/work-report/select.js"></script>
     <link href="https://cdn.datatables.net/searchpanes/1.1.1/css/searchPanes.dataTables.min.css" rel="stylesheet">
     <link href="assets/plugins/data-tables/jquery.datatables.min.css" rel="stylesheet" />
-    <link rel="stylesheet" href="assets/css/sandc.css" />
+
     <link href="assets/plugins/work-report/jquery-datatable.css" rel="stylesheet" />
 
     <style>

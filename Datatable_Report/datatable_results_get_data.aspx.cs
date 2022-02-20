@@ -52,7 +52,7 @@ public partial class datatable_results_get_data : System.Web.UI.Page
     {
         try
         {
-            string connectionString = "server=localhost;database=sandc_paint_efs;Uid=sandc_db;Pwd=Sandc@123;";
+            string connectionString = "";
             MySqlConnection con = new MySqlConnection(connectionString);
             con.Open();
             string query = "SELECT employee_no,first_name FROM employees_hidden";
@@ -101,7 +101,7 @@ public partial class datatable_results_get_data : System.Web.UI.Page
     {
         try
         {
-            string connectionString = "server=localhost;database=sandc_paint_efs;Uid=sandc_db;Pwd=Sandc@123;";
+            string connectionString = "";
             MySqlConnection con = new MySqlConnection(connectionString);
             con.Open();
             string query = "SELECT * FROM paint_tracker where emp_no_hang = '" + gEmpNo + "'";
@@ -155,7 +155,7 @@ public partial class datatable_results_get_data : System.Web.UI.Page
 
     public void Populate_supervisor()
     {
-        string connectionString = "server=localhost;database=sandc_workweek_planning;Uid=sandc_db;Pwd=Sandc@123;";
+        string connectionString = "";
         try
         {
             MySqlConnection conn = new MySqlConnection(connectionString);
