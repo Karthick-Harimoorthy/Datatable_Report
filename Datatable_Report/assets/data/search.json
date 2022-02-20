@@ -1,0 +1,375 @@
+  [
+  
+    
+      
+      {
+        "label": "Home",
+        "link": "index.html",
+        "tags": "home, sitemap,start",
+        "location": "Dashboard"
+      },
+      
+    
+
+  
+    
+      
+      {
+        "label": "MiLDEW Home",
+        "link": "mildew-home.html",
+        "tags": "",
+        "location": "MiLDEW"
+      },
+      
+    
+      
+      
+      {
+        "label": "Material Icon",
+        "link": "material-icon.html",
+        "tags": "",
+        "location": "Icons"
+      } ,
+      
+      {
+        "label": "Flag Icon",
+        "link": "flag-icon.html",
+        "tags": "",
+        "location": "Icons"
+      } ,
+      
+      
+    
+      
+      
+      {
+        "label": "Basic Input",
+        "link": "basic-input.html",
+        "tags": "",
+        "location": "Forms"
+      } ,
+      
+      {
+        "label": "Input Group",
+        "link": "input-group.html",
+        "tags": "",
+        "location": "Forms"
+      } ,
+      
+      {
+        "label": "Checkbox &amp; Radio",
+        "link": "checkbox-radio.html",
+        "tags": "",
+        "location": "Forms"
+      } ,
+      
+      {
+        "label": "Form Validation",
+        "link": "form-validation.html",
+        "tags": "",
+        "location": "Forms"
+      } ,
+      
+      {
+        "label": "Form Advance",
+        "link": "form-advance.html",
+        "tags": "",
+        "location": "Forms"
+      } ,
+      
+      
+    
+      
+      
+      {
+        "label": "Google Map",
+        "link": "google-map.html",
+        "tags": "",
+        "location": "Maps"
+      } ,
+      
+      {
+        "label": "Vector Map",
+        "link": "vector-map.html",
+        "tags": "",
+        "location": "Maps"
+      } ,
+      
+      
+    
+      
+      
+      {
+        "label": "General Widget",
+        "link": "general-widget.html",
+        "tags": "maps, todos, profiles, notifications, customers, cards",
+        "location": "Widgets"
+      } ,
+      
+      {
+        "label": "Chart Widget",
+        "link": "chart-widget.html",
+        "tags": "",
+        "location": "Widgets"
+      } ,
+      
+      
+    
+
+  
+    
+      
+      
+      {
+        "label": "Capacity Tracker Home",
+        "link": "captracker-home.html",
+        "tags": "",
+        "location": "Capacity Tracker"
+      } ,
+      
+      {
+        "label": "Resource Dashboard",
+        "link": "resource-dashboard.html",
+        "tags": "",
+        "location": "Capacity Tracker"
+      } ,
+      
+      
+    
+
+  
+    
+      
+      {
+        "label": "Screen Selection",
+        "link": "screenselection.html",
+        "tags": "",
+        "location": "Workweek"
+      },
+      
+    
+      
+      {
+        "label": "Planned Workweek",
+        "link": "plannedworkweek.html",
+        "tags": "",
+        "location": "Workweek"
+      },
+      
+    
+      
+      {
+        "label": "Planned Overtime",
+        "link": "plannedovertime.html",
+        "tags": "",
+        "location": "Workweek"
+      },
+      
+    
+      
+      {
+        "label": "Schedule Change",
+        "link": "schedulechange.html",
+        "tags": "",
+        "location": "Workweek"
+      },
+      
+    
+      
+      {
+        "label": "Screen Configuration",
+        "link": "screenconfig.html",
+        "tags": "",
+        "location": "Workweek"
+      },
+      
+    
+      
+      {
+        "label": "Dept Configuration",
+        "link": "deptconfig.html",
+        "tags": "",
+        "location": "Workweek"
+      },
+      
+    
+      
+      {
+        "label": "Profile Configuration",
+        "link": "profileconfig.html",
+        "tags": "",
+        "location": "Workweek"
+      },
+      
+    
+
+  
+    
+      
+      {
+        "label": "Summary Dashboard",
+        "link": "summarydashboard.html",
+        "tags": "",
+        "location": "Global Dashboard"
+      },
+      
+    
+
+  
+    
+      
+      {
+        "label": "Getting Started",
+        "link": "",
+        "tags": "",
+        "location": "Documentation"
+      },
+      
+    
+      
+      {
+        "label": "Introduction",
+        "link": "introduction.html",
+        "tags": "",
+        "location": "Documentation"
+      },
+      
+    
+      
+      {
+        "label": "Quick Start",
+        "link": "quick-start.html",
+        "tags": "",
+        "location": "Documentation"
+      },
+      
+    
+      
+      {
+        "label": "Customization",
+        "link": "customization.html",
+        "tags": "",
+        "location": "Documentation"
+      },
+      
+    
+      
+      {
+        "label": "Layouts",
+        "link": "",
+        "tags": "",
+        "location": "Documentation"
+      },
+      
+    
+      
+      
+      {
+        "label": "Header Fixed",
+        "link": "header-fixed.html",
+        "tags": "",
+        "location": "Header Variations"
+      } ,
+      
+      {
+        "label": "Header Static",
+        "link": "header-static.html",
+        "tags": "",
+        "location": "Header Variations"
+      } ,
+      
+      {
+        "label": "Header Light",
+        "link": "header-light.html",
+        "tags": "",
+        "location": "Header Variations"
+      } ,
+      
+      {
+        "label": "Header Dark",
+        "link": "header-dark.html",
+        "tags": "",
+        "location": "Header Variations"
+      } ,
+      
+      
+    
+      
+      
+      {
+        "label": "Sidebar Fixed Default",
+        "link": "sidebar-fixed-default.html",
+        "tags": "",
+        "location": "Sidebar Variations"
+      } ,
+      
+      {
+        "label": "Sidebar Fixed Minified",
+        "link": "sidebar-fixed-minified.html",
+        "tags": "",
+        "location": "Sidebar Variations"
+      } ,
+      
+      {
+        "label": "Sidebar Fixed Offcanvas",
+        "link": "sidebar-fixed-offcanvas.html",
+        "tags": "",
+        "location": "Sidebar Variations"
+      } ,
+      
+      {
+        "label": "Sidebar Static Default",
+        "link": "sidebar-static-default.html",
+        "tags": "",
+        "location": "Sidebar Variations"
+      } ,
+      
+      {
+        "label": "Sidebar Static Minified",
+        "link": "sidebar-static-minified.html",
+        "tags": "",
+        "location": "Sidebar Variations"
+      } ,
+      
+      {
+        "label": "Sidebar Static Offcanvas",
+        "link": "sidebar-static-offcanvas.html",
+        "tags": "",
+        "location": "Sidebar Variations"
+      } ,
+      
+      {
+        "label": "Sidebar With Footer",
+        "link": "sidebar-with-footer.html",
+        "tags": "",
+        "location": "Sidebar Variations"
+      } ,
+      
+      {
+        "label": "Sidebar Without Footer",
+        "link": "sidebar-without-footer.html",
+        "tags": "",
+        "location": "Sidebar Variations"
+      } ,
+      
+      {
+        "label": "Right Sidebar",
+        "link": "right-sidebar.html",
+        "tags": "",
+        "location": "Sidebar Variations"
+      } ,
+      
+      
+    
+      
+      {
+        "label": "RTL Direction",
+        "link": "rtl.html",
+        "tags": "",
+        "location": "Documentation"
+      }
+      
+    
+
+  
+  ]
